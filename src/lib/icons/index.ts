@@ -1,0 +1,7 @@
+export {default as Logoicon} from './logo.svelte'
+export {default as Bagicon} from './bag.svelte'
+export {default as Commenticon} from './comment.svelte'
+export {default as Dashboardicon} from './dashboard.svelte'
+export {default as Gearicon} from './gear.svelte'
+export {default as Headphoneicon} from './headphone.svelte'
+export {default as Logouticon} from './logout.svelte'
